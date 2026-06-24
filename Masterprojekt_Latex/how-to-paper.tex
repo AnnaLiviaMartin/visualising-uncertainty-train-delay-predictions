@@ -1,0 +1,76 @@
+% Beschreibung wie man vorgeht
+
+\section{Einleitung}
+Hier wird kurz zum Thema eingeleitet.
+Sobald klar ist um was es geht, wird zu jedem Teil des Papers einmal gesagt was darin erarbeitet wird.
+Im Abschnitt \ref{grundlagen} wird ein Überblick über den State-of-the-Art zum Thema xyz gegeben.
+Daraufhin wird in Abschnitt ... usw.
+
+\section{Grundlagen} \label{grundlagen}
+Hier fangen die Grundlagen an.
+Bitte mit einem einleitenden Satz anfangen und dann Related Work bzw. State-of-the-Art beschreiben.
+Eine gute Vorgehensweise ist, einen Abschnitt pro Quelle/Paper zu nehmen.
+Ein Abschnitt wird durch eine leere Zeile in Latex erzeugt.
+
+Werkmeister \cite{dbt_mods_00050711} spricht in seiner Arbeit über Design Patterns und wendet dabei Entwicklungstechniken, die von Cooper et al. \cite{interactionDesign} beschrieben wurden.
+Dies ist für das Thema xyz besonders relevant weil die Problemstellungen 1, 2 und 3 dabei herausgearbeitet wurden...\\
+
+Mit dem Befehl \texttt{\textbackslash \textbackslash} am Ende einer Zeile und einer darauf folgenden leeren Zeile kriegt ihr einen Absatz mit einer freien Zeile dazwischen.
+Setzt das sinnvoll, bedacht und konsequent ein.
+
+
+\section{Hauptteil} \label{hauptteil}
+Nun folgt der Hauptteil den ihr NICHT 'Hauptteil' nennt.
+Hier sollte passend zu eurer Fragestellung / eurem Fokus die Einteilung des Texts geschehen.
+
+\subsection{Subsection vom Hauptteil} \label{subsectionhauptteil}
+
+Hallo ich bin eine Subsection von der Section  \ref{hauptteil}.
+
+\subsubsection{Subsubsection... Level drei} 
+
+Ich bin eine Subsubsection.
+Ich bin ein Unterpunkt zu \ref{subsectionhauptteil}
+Im Folgendem könnt ihr die Tabelle \ref{tab1} sehen.
+Die Tabelle beinhaltet verschiedene Style-Optionen.
+Da diese Tabelle zu breit für eine Spalte ist wurde statt \texttt{\textbackslash table} einfach ein * angehängt.
+Also steht im Befehl \texttt{\textbackslash table*}.
+\begin{table*}
+\centering
+\caption{Tabelle für Styles}\label{tab1}
+\begin{tabular}{|l|l|l|}
+\hline
+Heading level &  Example & Font size and style\\
+\hline
+Title (centered) &  {\Large\bfseries Lecture Notes} & 14 point, bold\\
+1st-level heading &  {\large\bfseries 1 Introduction} & 12 point, bold\\
+2nd-level heading & {\bfseries 2.1 Printing Area} & 10 point, bold\\
+3rd-level heading & {\bfseries Run-in Heading in Bold.} Text follows & 10 point, bold\\
+4th-level heading & {\itshape Lowest Level Heading.} Text follows & 10 point, italic\\
+\hline
+\end{tabular}
+\end{table*}
+
+So könnte man eine mathematische Formel einbinden.
+Das ist aber fürs Fachseminar wohl weniger interessant.
+
+\begin{equation}
+x + y = z
+\end{equation}
+
+Und Bilder werden am Besten als PDF oder in Vektorformaten eingebunden.
+Ein Beispiel dafür wäre \ref{fig1}.
+
+\begin{figure}[htbp]
+\includegraphics[width=\columnwidth]{Resources/actorsdependencies2.pdf}
+\caption{Zusammenspiel von Akteuren einer urbanen Datenplattform} \label{fig1}
+\end{figure}
+
+\subsection{Subsection vom Hauptteil die Zweite}
+In der Bib-Datei habe ich euch noch ein paar nette Quellen hinterlassen.
+Da könnt ihr auch sehen wie z.B. Websiten als Quellen angegeben werden.
+Hierfür habe ich eine Statistik \cite{statistaVRinteresse} über das Interesse an VR in Deutschalnd raus gesucht.
+DIN-Spezifikationen kann man auch als Quelle angeben.
+Ich habe dazu kein offizielles Format gefunden, aber das Beispiel für \cite{DINSPEC91357} sollte formell keine Fehler enthalten.
+Falls ein Artikel mehrere Autoren hat, wird der erste einfach genannt.
+Wie bei dem Artikel von Huang et al. \cite{huang2015personal}.

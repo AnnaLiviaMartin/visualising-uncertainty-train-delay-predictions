@@ -1,0 +1,102 @@
+frage_nr,column,n,mean,median,std,min,max
+4,"Frage 4 - Bitte bewerten Sie den folgenden Punkt. - Ich nutze regelmäßig Zug-/Bus-Apps, um Reiseentscheidungen zu treffen / (Spalten 1-5)",26,1.9615384615384615,1.5,1.280024038235821,1.0,5.0
+6,Frage 6 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher im Umgang mit Grafiken. / (Spalten 1-5),26,1.6923076923076923,1.5,0.7883771061734742,1.0,3.0
+6,Frage 6 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher im Umgang mit Prozentangaben und Wahrscheinlichkeiten. / (Spalten 1-5),26,2.0384615384615383,2.0,0.9992304731449789,1.0,5.0
+6,"Frage 6 - Bitte bewerten Sie die folgenden Punkte. - Ich traue mir zu, Grafiken richtig zu interpretieren. / (Spalten 1-5)",26,1.8846153846153846,2.0,0.7656068482934607,1.0,3.0
+6,"Frage 6 - Bitte bewerten Sie die folgenden Punkte. - Ich traue mir zu, statistische Informationen richtig zu interpretieren. / (Spalten 1-5)",26,2.076923076923077,2.0,0.9766504768063924,1.0,4.0
+7,Frage 7 - Bitte bewerten Sie die folgenden Punkte. - Wie sicher fühlen Sie sich bei Ihrer Entscheidung? / (Spalten 1-5),26,2.576923076923077,2.0,1.2384854273854633,1.0,5.0
+7,"Frage 7 - Bitte bewerten Sie die folgenden Punkte. - Wie wahrscheinlich ist es Ihrer Einschätzung nach, dass Sie mit diesem Zug pünktlich ankommen? / (Spalten 1-5)",26,4.076923076923077,4.0,1.0553891006856921,2.0,5.0
+7,"Frage 7 - Bitte bewerten Sie die folgenden Punkte. - Wie wahrscheinlich ist es Ihrer Einschätzung nach, dass der Zug mehr als 30 Minuten verspätet ankommt? / (Spalten 1-5)",26,2.8846153846153846,3.0,1.2434443478313961,1.0,5.0
+8,Frage 8 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,2.3846153846153846,2.0,1.0982503567738306,1.0,4.0
+8,Frage 8 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,3.1923076923076925,3.5,1.3272296189953197,1.0,5.0
+8,"Frage 8 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,2.6538461538461537,3.0,1.1642098674142112,1.0,5.0
+9,Frage 9 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,2.8846153846153846,3.0,1.3364706678987932,1.0,5.0
+9,"Frage 9 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,2.6923076923076925,2.0,1.3789628209413267,1.0,5.0
+10,Frage 10 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.769230769230769,2.0,1.3056092005709,1.0,5.0
+10,Frage 10 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,3.1153846153846154,3.5,1.1428708790383304,1.0,5.0
+10,Frage 10 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,2.923076923076923,3.0,1.1286479317511522,1.0,5.0
+10,"Frage 10 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,2.6538461538461537,2.0,1.3839742105200572,1.0,5.0
+10,Frage 10 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,3.3076923076923075,3.0,1.1231822922119372,1.0,5.0
+11,Frage 11 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,3.076923076923077,3.0,1.1635489477654792,1.0,5.0
+11,Frage 11 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.8461538461538463,3.0,1.189699380257305,1.0,5.0
+11,"Frage 11 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,3.1153846153846154,3.5,1.2434443478313961,1.0,5.0
+13,Frage 13 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,2.3461538461538463,2.0,1.0561177090573832,1.0,4.0
+13,Frage 13 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,2.423076923076923,2.0,1.1374735838014673,1.0,5.0
+17,Frage 17 - Bitte bewerten Sie die folgenden Punkte. - Wie sicher fühlen Sie sich bei Ihrer Entscheidung? / (Spalten 1-5),26,1.7307692307692308,2.0,0.533493565673837,1.0,3.0
+17,"Frage 17 - Bitte bewerten Sie die folgenden Punkte. - Wie wahrscheinlich ist es Ihrer Einschätzung nach, dass Sie mit diesem Zug pünktlich ankommen? / (Spalten 1-5)",26,2.3076923076923075,2.0,1.086985952778812,1.0,5.0
+17,"Frage 17 - Bitte bewerten Sie die folgenden Punkte. - Wie wahrscheinlich ist es Ihrer Einschätzung nach, dass der Zug mehr als 30 Minuten verspätet ankommt? / (Spalten 1-5)",26,4.5,5.0,0.7615773105863908,2.0,5.0
+18,Frage 18 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,1.7692307692307692,2.0,0.7103628541917043,1.0,4.0
+18,Frage 18 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,1.6923076923076923,2.0,0.6176879969195302,1.0,3.0
+18,"Frage 18 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,1.6153846153846154,2.0,0.5710988059467872,1.0,3.0
+19,Frage 19 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,4.115384615384615,4.0,0.7656068482934608,2.0,5.0
+19,"Frage 19 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,4.0,4.0,0.8,2.0,5.0
+20,Frage 20 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.423076923076923,2.0,1.0265700920278917,1.0,4.0
+20,Frage 20 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,1.8461538461538463,2.0,0.8338972450995479,1.0,4.0
+20,Frage 20 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,1.9615384615384615,2.0,0.527694550342846,1.0,3.0
+20,"Frage 20 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,3.6153846153846154,4.0,1.0228166239135177,2.0,5.0
+20,Frage 20 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,2.269230769230769,2.0,1.0023050357128735,1.0,4.0
+21,Frage 21 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,1.9230769230769231,2.0,0.7442084075352507,1.0,4.0
+21,Frage 21 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.1538461538461537,2.0,1.0466062370273814,1.0,5.0
+21,"Frage 21 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,2.0,2.0,0.8944271909999159,1.0,4.0
+23,Frage 23 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,1.9230769230769231,2.0,0.9347973865208192,1.0,5.0
+23,Frage 23 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,1.8461538461538463,2.0,0.6126863923612269,1.0,3.0
+28,Frage 28 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,1.5769230769230769,1.0,0.7027418828034614,1.0,3.0
+28,Frage 28 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,1.7307692307692308,2.0,0.6667948594698256,1.0,3.0
+28,"Frage 28 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,1.7692307692307692,2.0,0.815239464584109,1.0,3.0
+29,Frage 29 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,4.384615384615385,4.0,0.6373020054525533,3.0,5.0
+29,"Frage 29 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,4.230769230769231,4.0,0.5870395085642742,3.0,5.0
+30,Frage 30 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.076923076923077,2.0,0.7961445558729606,1.0,4.0
+30,Frage 30 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,2.1538461538461537,2.0,0.8805592628464114,1.0,4.0
+30,Frage 30 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,2.0,2.0,0.8,1.0,4.0
+30,"Frage 30 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,3.3461538461538463,4.0,1.3249092857190696,1.0,5.0
+30,Frage 30 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,2.1538461538461537,2.0,0.9671528397231822,1.0,4.0
+31,Frage 31 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,2.0384615384615383,2.0,0.8708969735057864,1.0,4.0
+31,Frage 31 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.6153846153846154,2.0,1.2353759938390605,1.0,5.0
+31,"Frage 31 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,1.9615384615384615,2.0,0.9583639905910166,1.0,4.0
+33,Frage 33 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,2.1538461538461537,2.0,0.7316998123442532,1.0,4.0
+33,Frage 33 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,2.1538461538461537,2.0,0.7316998123442532,1.0,3.0
+38,Frage 38 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,2.0,2.0,0.6324555320336759,1.0,4.0
+38,Frage 38 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,2.269230769230769,2.0,0.9615692302769389,1.0,4.0
+38,"Frage 38 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,2.3076923076923075,2.0,0.8375789285425354,1.0,4.0
+39,Frage 39 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,3.6923076923076925,4.0,1.0107118588096518,2.0,5.0
+39,"Frage 39 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,3.5,3.5,1.0295630140987,2.0,5.0
+40,Frage 40 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.423076923076923,2.0,0.8086075400626399,1.0,4.0
+40,Frage 40 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,2.4615384615384617,2.0,0.8114564304148058,1.0,4.0
+40,Frage 40 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,2.3076923076923075,2.0,0.7358929688062399,1.0,4.0
+40,"Frage 40 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,3.3846153846153846,4.0,1.061203960675725,1.0,5.0
+40,Frage 40 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,2.5,2.0,0.7615773105863908,1.0,4.0
+41,Frage 41 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,2.269230769230769,2.0,0.7243033788512826,1.0,4.0
+41,Frage 41 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.423076923076923,2.0,0.8086075400626399,1.0,4.0
+41,"Frage 41 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,2.576923076923077,2.0,1.064822123101391,1.0,5.0
+43,Frage 43 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,2.1923076923076925,2.0,0.8494342008292706,1.0,4.0
+43,Frage 43 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,2.269230769230769,2.0,0.7775701798650618,1.0,4.0
+48,Frage 48 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,2.0384615384615383,2.0,1.0384900280992295,1.0,4.0
+48,Frage 48 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,2.076923076923077,2.0,0.9766504768063925,1.0,4.0
+48,"Frage 48 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,2.3461538461538463,2.0,1.1293292767765366,1.0,4.0
+49,Frage 49 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,3.6538461538461537,4.0,1.2310095919141393,1.0,5.0
+49,"Frage 49 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,3.576923076923077,4.0,1.270372446901362,1.0,5.0
+50,Frage 50 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.5,2.0,1.0677078252031311,1.0,5.0
+50,Frage 50 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,2.5384615384615383,2.0,1.1038394532093598,1.0,5.0
+50,Frage 50 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,2.6153846153846154,2.0,1.1688258408136971,1.0,5.0
+50,"Frage 50 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,3.1153846153846154,3.0,1.2434443478313961,1.0,5.0
+50,Frage 50 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,2.8076923076923075,3.0,1.0590271297461937,1.0,5.0
+51,Frage 51 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,2.6923076923076925,2.5,1.1582480138288438,1.0,5.0
+51,Frage 51 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.5,2.0,1.0677078252031311,1.0,4.0
+51,"Frage 51 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,2.6538461538461537,3.0,1.1642098674142112,1.0,5.0
+53,Frage 53 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,2.5384615384615383,2.5,1.1038394532093598,1.0,5.0
+53,Frage 53 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,2.5,2.5,1.0677078252031311,1.0,5.0
+58,Frage 58 - Bitte bewerten Sie die folgenden Punkte. - Ich habe diese Darstellung gut verstanden. / (Spalten 1-5),26,2.4615384615384617,2.0,1.066987131347674,1.0,5.0
+58,Frage 58 - Bitte bewerten Sie die folgenden Punkte. - Ich konnte die Information schnell erfassen. / (Spalten 1-5),26,2.6538461538461537,2.0,1.0933364602832083,1.0,5.0
+58,"Frage 58 - Bitte bewerten Sie die folgenden Punkte. - Mir war klar, was diese Vorhersage für meine Entscheidung bedeutet. / (Spalten 1-5)",26,2.3076923076923075,2.0,0.970329048075168,1.0,4.0
+59,Frage 59 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung war mental anstrengend. / (Spalten 1-5),26,3.3076923076923075,4.0,1.225372784722454,1.0,5.0
+59,"Frage 59 - Bitte bewerten Sie die folgenden Punkte. - Ich musste mich anstrengen, um die Darstellung zu verstehen. / (Spalten 1-5)",26,3.0384615384615383,3.0,1.1482428046635165,1.0,5.0
+60,Frage 60 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung wirkt professionell und seriös. / (Spalten 1-5),26,2.6153846153846154,3.0,0.8978607053178383,1.0,5.0
+60,Frage 60 - Bitte bewerten Sie die folgenden Punkte. - Diese Darstellung hat mir bei der Entscheidung geholfen. / (Spalten 1-5),26,2.5,2.5,0.9486832980505138,1.0,4.0
+60,Frage 60 - Bitte bewerten Sie die folgenden Punkte. - Ich halte diese Vorhersage für glaubwürdig. / (Spalten 1-5),26,2.3846153846153846,2.0,0.8038369524685003,1.0,4.0
+60,"Frage 60 - Bitte bewerten Sie die folgenden Punkte. - Ich hätte mir gewünscht, mehr Erklärungen für diese Darstellung zu erhalten. / (Spalten 1-5)",26,3.1153846153846154,3.0,1.1428708790383304,1.0,5.0
+60,Frage 60 - Bitte bewerten Sie die folgenden Punkte. - Ich würde mich im Alltag auf diese Information verlassen. / (Spalten 1-5),26,2.6923076923076925,2.5,0.8840466399113011,1.0,4.0
+61,Frage 61 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung gibt mir eine klare Orientierung für mein weiteres Vorgehen. / (Spalten 1-5),26,2.423076923076923,2.0,0.8566482089201809,1.0,4.0
+61,Frage 61 - Bitte bewerten Sie die folgenden Punkte. - Die Darstellung vermittelt eine klare Einschätzung des Risikos. / (Spalten 1-5),26,2.6538461538461537,3.0,0.9356199096773301,1.0,5.0
+61,"Frage 61 - Bitte bewerten Sie die folgenden Punkte. - Ich wusste sofort, was ich auf Basis dieser Information tun sollte (den Zug nehmen oder nicht). / (Spalten 1-5)",26,2.5,3.0,0.9055385138137416,1.0,4.0
+63,Frage 63 - Bitte bewerten Sie die folgenden Punkte. - Ich bin mit meiner Entscheidung zufrieden. / (Spalten 1-5),26,2.4615384615384617,2.0,0.9478721108153454,1.0,4.0
+63,Frage 63 - Bitte bewerten Sie die folgenden Punkte. - Ich fühle mich sicher bei meiner Entscheidung. / (Spalten 1-5),26,2.423076923076923,2.0,0.9021342216356466,1.0,5.0
