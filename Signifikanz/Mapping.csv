@@ -1,0 +1,35 @@
+Value,Code
+Mehrmals die Woche,1
+Mehrmals im Monat,2
+Mehrmals im Jahr,3
+Seltener,4
+Nie,5
+Immer,1
+Häufig,2
+Manchmal,3
+Seltener,4
+Selten,4
+Nie,5
+Ja,1
+Nein,2
+"Ich wusste nicht, dass das möglich ist.",3
+Sehr gut,1
+Gut,2
+Neutral,3
+Schlecht,4
+Sehr schlecht,5
+Sehr Wahrscheinlich,1
+Wahrscheinlich,2
+Weder unwahrscheinlich noch wahrscheinlich,3
+Unwahrscheinlich,4
+Sehr Unwahrscheinlich,5
+Stimmt voll und ganz zu,1
+Stimmt eher zu,2
+Teils/teils,3
+Stimmt eher nicht zu,4
+Stimmt überhaupt nicht zu,5
+Vollständig sicher,1
+Eher sicher,2
+Weder sicher noch unsicher,3
+Eher unsicher,4
+Überhaupt nicht sicher,5
